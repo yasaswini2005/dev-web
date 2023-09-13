@@ -1,0 +1,165 @@
+*{ 
+      margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+BODY{
+    background-color: gainsboro;
+}
+    .nav{color: rgb(3, 2, 3);
+        display: flex;
+        background-color:rgb(226, 134, 192);
+        align-items: center;
+        justify-content: center;
+        padding: 10px 0px; }
+    .footer{
+        color: rgb(17, 12, 15);
+        display: flex;
+        background-color: rgb(51, 222, 137);
+        align-items: center;
+        justify-content: center;
+        padding: 10px 0px;  
+        position: absolute;
+        buttom:0;
+    width: 100%;}
+.home{
+
+}
+.homein{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+.cardone{
+background-color:coral;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 20vh;
+
+}
+.cardone h1{
+   
+    color: black;
+    font-size: 25px;
+}
+.cardtwo{
+    background-color: black;
+    color: white;
+    height: 20vh;
+    display: flex;
+justify-content: center;
+
+flex-direction: column;
+}
+.card{
+    width: 30%;
+}
+.cardtwo p{
+    width: 80%;
+    margin: auto;font-size: 18px;
+
+}
+.cardtwo a{
+    width: 80%;
+    margin: auto;
+  
+    color:rgb(14, 50, 215);
+    text-decoration: none;
+}
+.homein{
+    flex-wrap: wrap;
+padding:30px  0px 30px 0px;
+}
+.footer{
+    width: 100%;
+    position:absolute;
+    bottom:0;
+}
+.hometwoin{
+    margin: auto;
+    width: 90%;
+
+
+}
+.hometwoin h1{
+    font-size: 80px;
+    width: 70%;
+}
+.coursesone{
+    height: 40vh;
+    background-color: rgb(228, 139, 22);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.coursesone
+.coursestwo{
+    width: 90%;
+    margin: auto;
+}
+.coursestwo h2{
+    font-size: 25px;
+    text-align: left;
+}
+.coursestwo p{
+text-align: left;
+font-size: 18px;
+}
+.coursesone h1{
+    font-size: 15px;
+}
+.coursestwo {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+#ip{
+    border: 2px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
